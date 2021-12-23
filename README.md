@@ -1,2 +1,14 @@
-# gittest
-Testing practice
+{
+"Emp1":{
+"Name":"Anjana",
+"Id":1,
+"Place":"India"}
+"Emp2":{
+"Name":"sameera",
+"Id":23,
+"place":"srilanka"}
+"Emp3":{
+"Name":"tina",
+"Id":56,
+"Place":"England"}
+}
